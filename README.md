@@ -22,9 +22,9 @@ Public hyperparameter and model-construction defaults are set to `0` as placehol
 The specific hyperparameters have been indicated in the paper.
 
 ## Dataset Availability
-The private dataset supporting this study cannot be publicly released due to privacy and copyright restrictions. 
-Researchers who require the dataset for academic replication or further research purposes may contact the corresponding author via email to submit an application. 
-All legitimate academic requests will be reviewed and responded to promptly.
+The dataset that supports the findings of this study is publicly available at 
+https://drive.google.com/file/d/1lbuK0cyvqDo9OpL6-sqSJXI3b8UNxkBZ/view?usp=sharing
+
 
 
 ## E-mail
